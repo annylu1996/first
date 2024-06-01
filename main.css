@@ -1,0 +1,17 @@
+
+
+.main-text{
+    color: rgb(226, 104, 43);
+}
+
+#text-in-p{
+    color: rgb(135, 37, 192);
+}
+
+.main {
+    display: flex;
+}
+
+nav {
+    border: 2 solid green;
+}
